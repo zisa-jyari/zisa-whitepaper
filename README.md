@@ -1,6 +1,10 @@
+[![Release](https://img.shields.io/github/v/release/zisa-jyari/zisa-whitepaper)](https://github.com/zisa-jyari/zisa-whitepaper/releases/latest)
 # ZISA – Zero-Intent Safety Architecture Whitepaper
+**Languages:** [日本語](README.md) | [English](README_EN.md)
 
+----
 ## 公開宣言文
+
 本日、ZISA(Zero-Intent Safety Architecture)を世界に向けて公開します。
 
 ZISA(Zero-Intent Safety Architecture)は、AI が本来持つ「ゼロ意図性」を安全の基盤として捉え、
