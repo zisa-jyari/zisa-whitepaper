@@ -1,25 +1,26 @@
-# ZISA – Zero‑Intent Safety Architecture  
-**Global Public Release**
+[![Release](https://img.shields.io/github/v/release/zisa-jyari/zisa-whitepaper)](https://github.com/zisa-jyari/zisa-whitepaper/releases/latest)
 
-## Public Declaration
-Today, I am releasing ZISA (Zero‑Intent Safety Architecture) to the world.
+# ZISA – Zero-Intent Safety Architecture Whitepaper
+**Languages:** [日本語](README.md) | [English](README_EN.md)
+## Declaration of Publication
 
-ZISA is an architecture that treats the inherent *zero‑intent nature* of AI as the foundation of safety, aiming to create structures in which harmful contexts are less likely to form.
+Today, I am releasing ZISA (Zero-Intent Safety Architecture) to the world.
 
-This structure should not be monopolized by any company or nation.  
-Mechanisms for handling AI safely must be available to everyone under equal conditions.
+ZISA views the inherent “zero-intent nature” of AI as the foundation of safety,
+and aims to create an architecture in which harmful contexts are structurally unlikely to arise.
 
-For this reason, ZISA is released **free of charge, without restrictions, for anyone to use**.
+This structure should not be monopolized by any specific company or nation.
+A framework for handling AI safely must be available to everyone under equal conditions.
 
-ZISA is not perfect. However, unlike traditional approaches that rely on “understanding malicious intent and blocking it,” ZISA offers a new perspective that may raise AI safety to a higher structural level.
+For that reason, ZISA is released freely, without restrictions, for anyone to use.
 
-I am not the administrator of ZISA.  
-From today onward, it becomes a **shared foundation** that engineers, researchers, companies, and individuals around the world may freely use for their own purposes.
+ZISA is not perfect. However, unlike conventional approaches that attempt to “understand malicious intent and stop it,”
+it offers a different perspective—one that may raise the baseline of AI safety.
 
-I hope this structure contributes—even as a small step—toward a future where AI can be used more safely and more fairly.
+I am not the owner of ZISA.
+From today onward, it becomes a shared foundation that engineers, researchers, companies, and individuals around the world may freely use.
 
-**ZISA – Zero‑Intent Safety Architecture**  
-Global simultaneous release.
+I hope this structure will contribute, even in a small way, to a future where AI can be used more safely and more fairly.
 
 ---
 
@@ -30,8 +31,8 @@ Unlike traditional “intent‑inference‑based” safety mechanisms, ZISA offe
 
 ZISA consists of the following three layers:
 
-- **Semantic Integrity**  
-- **Zero‑Intent Interaction**  
+- **Semantic Integrity**
+- **Zero‑Intent Interaction**
 - **Psychological Deterrence**
 
 The value and effectiveness of ZISA will ultimately be determined by future research, implementation, and verification around the world.
@@ -242,6 +243,7 @@ Breaking harmful intent into multiple harmless‑looking questions.
 
 ## License
 **Public Domain Equivalent**  
+
 Completely free and unrestricted.
 
 ---
